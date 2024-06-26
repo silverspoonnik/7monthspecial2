@@ -1,0 +1,25 @@
+body{
+    background-color: #143944;
+}
+#main{
+   display: flex;
+   gap: 20px;
+   justify-content: space-between;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+p{
+    font-size: 24px;
+    color: white;
+}
+#colimg,#colimg2{
+    display: block;
+    
+}

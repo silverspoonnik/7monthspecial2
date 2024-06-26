@@ -1,0 +1,82 @@
+body{
+    background-color: #D2649A;
+}
+h1{
+    
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        color: black;
+        font-size: 4rem;
+      
+}
+#nov
+{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+img{
+    width: 400px;
+    height: 300px;
+    border-radius: 10%;
+}
+video{
+    height: 300px;
+    border-radius: 10%;
+    
+}
+p{
+        color: #F6FAB9;
+        font-family: "Lobster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+       font-size: 24px;
+      
+}
+span{
+    font-family: "Lobster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    font-size:3rem ;
+    text-align: center;
+}
+#dec{
+    display: flex;
+    flex-direction:row-reverse;
+}
+#jan
+{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+#jan div video{
+    width:300px;
+}
+#feb{
+    display: flex;
+    flex-direction:row-reverse;
+}
+#mar{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+#april{
+    display: flex;
+    flex-direction:row-reverse;
+}
+#may{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+#june{
+    display: flex;
+    flex-direction:row-reverse;
+}
+#june img{
+    height:600px;
+}
